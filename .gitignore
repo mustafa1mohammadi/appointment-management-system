@@ -4,6 +4,7 @@
 .DS_Store
 .settings
 .springBeans
+.class*
 bin
 build.sh
 integration-repo
@@ -12,9 +13,7 @@ jxl.log
 jmx.log
 derby.log
 spring-test/test-output/
-.gradle
 argfile*
-pom.xml
 activemq-data/
 
 classes/
