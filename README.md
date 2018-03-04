@@ -9,7 +9,9 @@ Follow the configuration section on how to run the application.
 
 
 ## Configuration
-After checking the Environment, you should first import the project into the IDE and then configure database. That's it.
+After checking the Environment, you should first import the project into the IDE and then configure database. That's it.  After importing the project, right click on the project root directory, click **Maven -> Update Project -> Choose the project -> check the option *Force Update***  and click OK.
+
+The project will be built regarding the dependencies and then you can setup the database.
 
 ## Environment
 IDE: STS
